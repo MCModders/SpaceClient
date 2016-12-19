@@ -1,0 +1,8 @@
+jars/
+bin/
+*.bat
+*.sh
+logs/
+lib/
+reobf/
+temp/
