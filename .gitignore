@@ -6,3 +6,5 @@ logs/
 lib/
 reobf/
 temp/
+eclipse/
+runtime/
